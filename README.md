@@ -1,7 +1,7 @@
 Hello! My name is **Luca Cozzuto**, I am a Bioinformatician at [CRG](https://www.crg.eu/)'s [Bioinformatics Core](https://biocore.crg.eu/wiki/Main_Page) in Barcelona. I enjoy helping scientists and bioinformaticians trying to simplify their life using workflow managers and enhancing reproducibility with Linux containers. I'm also a [Nextflow Ambassador](https://www.nextflow.io/our_ambassadors.html)
 
 
-<img src="pic.png" alt="Luca Cozzuto" width="150"/>
+<img src="https://github.com/lucacozzuto/lucacozzuto.github.io/blob/main/pic.png" alt="Luca Cozzuto" width="150"/>
 
 Here some tools / languages I use:
 
