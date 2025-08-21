@@ -1,22 +1,14 @@
-hi guys, l'm CattoPK3, working on ["Lunar Fusion" Engine](), also have fish :]
+hi guys, l'm CattoPK3, working on ["Lunar Fusion" Engine](https://github.com/CattoPK3/Lunar-Fusion), also have fish :]
 
 <img src="207313616-modified.png" alt="CattoPK3" width="150"/>
 
 Here some tools / languages I use:
 
-[![Nextflow](https://img.shields.io/badge/lib-SDL-blue)](https://www.libsdl.org/)
+[![SDL](https://img.shields.io/badge/lib-SDL-blue)](https://www.libsdl.org/)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 
 Here something about me:
 
-[![Scholar](https://img.shields.io/badge/List%20of%20Publication-Google%20Scholar-yellow)](https://scholar.google.it/citations?user=ID_rfS4AAAAJ&hl=it) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cozzuto/)
-[![Twitter](https://img.shields.io/badge/X(Twitter)-000000?logo=twitter&logoColor=white)](https://twitter.com/lucacozzuto)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#https://youtube.com/@cattopk3)
 [![BlueSky](https://img.shields.io/badge/Bluesky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/lucacozzuto.github.io)
-
-Here some project I developed / contributed:
-
-[![Master of Pores 2](https://img.shields.io/badge/Nanopore%20pipeline-Master%20Of%20Poresf%202-black)](https://github.com/biocorecrg/mop2) 
-[![ExOrthist](https://img.shields.io/badge/Infer%20exon%20orthology%20groups-ExHortist-yellow)](https://github.com/biocorecrg/ExOrthist)
-[![Allele Specific RNASeq](https://img.shields.io/badge/Pipeline-Allele%20Specific%20RNAseq-red)](https://github.com/biocorecrg/allele_specific_RNAseq)
-[![BioNextflow](https://img.shields.io/badge/Library-BioNextflow-brightgreen)](https://github.com/biocorecrg/BioNextflow)
-
