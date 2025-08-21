@@ -4,7 +4,7 @@ hi guys, l'm CattoPK3, working on ["Lunar Fusion" Engine](), also have fish :]
 
 Here some tools / languages I use:
 
-[![Nextflow][(https://img.shields.io/badge/lib-SDL-blue)](https://www.libsdl.org/)
+[![Nextflow](https://img.shields.io/badge/lib-SDL-blue)](https://www.libsdl.org/)
 
 Here something about me:
 
