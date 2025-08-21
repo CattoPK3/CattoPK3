@@ -4,13 +4,7 @@ hi guys, l'm CattoPK3, working on ["Lunar Fusion" Engine](), also have fish :]
 
 Here some tools / languages I use:
 
-[![Nextflow](https://img.shields.io/badge/code-nextflow-brightgreen)](https://www.nextflow.io/)
-[![Docker](https://img.shields.io/badge/code-docker-blue)](https://www.docker.com/)
-[![Singularity](https://img.shields.io/badge/code-singularity-green)](https://www.sylabs.io/)
-[![Biocontainers](https://img.shields.io/badge/resources-biocontainers-orange)](https://biocontainers.pro/)
-[![R](https://img.shields.io/badge/code-R-blue)](https://www.r-project.org/)
-[![Python](https://img.shields.io/badge/code-Python-yellow)](https://www.python.org/)
-
+[![Nextflow][(https://img.shields.io/badge/code-nextflow-brightgreen](https://img.shields.io/badge/lib-SDL-blue)](https://www.libsdl.org/)
 
 Here something about me:
 
